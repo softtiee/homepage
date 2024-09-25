@@ -1,1 +1,28 @@
-Following codeacademy's Learn HTML course + beginner front end dev flowchart from roadmaps.sh
+Resources:
+- codeacademy's Learn HTML course
+- beginner front end dev flowchart from roadmaps.sh
+- https://www.w3schools.com/html
+- https://www.freecodecamp.org (YOU GET CERTIFICATIONS HERE???)
+
+
+Hosting servers:
+- github pages
+- https://surge.sh
+- https://neocities.org (FOR THAT NOSTOLGIC VIBEE!!!)
+
+(Omg neocities has a whole community?? IT SUPPORTS CSS AND JAVASCRIPT TOO which makes sense lol)
+
+
+Features to add:
+- https://gifypet.neocities.org/#getapet GIFY PET
+- Current status (Can you link these between pages? Like have it reference the same file/code or smth??)
+  - ADD A COMMISSION STATUS TO IT!!!
+- Updates!!
+
+Pages Todo list:
+- RAMBLE BLOG!!!
+    + Maybe add a "fav characters/shows" thing beside it too?
+- Actual portfolio lol
+- Fanart gallary ( Bc copyright D: )
+- TOS and yays and nays of commissions
+- About me
