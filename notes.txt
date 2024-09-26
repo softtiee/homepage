@@ -4,6 +4,12 @@ Resources:
 - https://www.w3schools.com/html
 - https://www.freecodecamp.org (YOU GET CERTIFICATIONS HERE???)
 
+!!!! PALETTE !!!! (WIP)
+321D34 - Dark Purple   [BACKGROUNDS]
+4C4551 - Dark Grey     [BOXES STUFF]
+B3788C - Pink          [ Text ???? ]
+E4B4C1 - Light Pink    [  Accents  ]
+DCCED6 - Pink - Grey   [ Small Txt ]
 
 Hosting servers:
 - github pages
