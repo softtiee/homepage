@@ -9,18 +9,44 @@ $lightGray: #DCCED6;
 //Assets
 $laceBorder: url(./Assets/blacklace4.png) 30 round;
 
-//head{}
+//Fonts
+@font-face {
+    font-family: goth;
+    src: url(./Assets/CloisterBlackLight-axjg.ttf)
+}
 
 .intro {
-    color: $lightPink
+    color: $lightPink;
+    text-align: center;
 }
 
-.menu{
-    background-color: $pink;
+.menu {
     color: $darkGray;
+    text-align: center;
 }
 
-.main{
+.button1 { //For menus
+    background:    $pink;
+    border-radius: 11px;
+    border-color:  $lightPink;
+    width:         10%;
+    height:        37px;
+    color:         $darkGray;
+    display:       inline-block;
+    font:          normal bold 23px/29px "goth", cursive;
+    text-align:    center;
+}
+
+.spacer {
+    height:35px;
+    padding: 5px;
+}
+
+.lacetop {
+
+}
+
+.main {
     //padding: px;
     border: 17px solid transparent;
     border-image: $laceBorder;
@@ -36,4 +62,11 @@ body{
     background-repeat: repeat;
     color:$lightPink;
     padding: 20px;
+}
+
+html{
+    cursor: url(./Assets/kuromiopen.cur), auto;
+}
+html:active{
+    cursor: url(./Assets/kuromidizzy.cur), auto;
 }
