@@ -8,12 +8,17 @@
 }
 
 .main {
-  background-color: #1b171c;
-  padding: 15px;
+  border: 17px solid transparent;
+  border-image: url(./Assets/blacklace4.png) 30 round;
+  border-image-slice: fill;
+  background-image: url(./Assets/backgrounditem.png);
+  background-size: 10px 10px;
+  border-image-outset: 15px 15px;
 }
 
 body {
-  background-color: #291e29;
+  background-image: url(./Assets/background.png);
+  background-repeat: repeat;
   color: #E4B4C1;
   padding: 20px;
 }/*# sourceMappingURL=styles.css.map */

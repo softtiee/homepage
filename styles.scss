@@ -6,6 +6,9 @@ $pink: #B3788C;
 $lightPink: #E4B4C1;
 $lightGray: #DCCED6;
 
+//Assets
+$laceBorder: url(./Assets/blacklace4.png) 30 round;
+
 //head{}
 
 .intro {
@@ -18,12 +21,19 @@ $lightGray: #DCCED6;
 }
 
 .main{
-    background-color: $darkGray;
-    padding: 15px;
+    //padding: px;
+    border: 17px solid transparent;
+    border-image: $laceBorder;
+    border-image-slice: fill;
+    //background-image: url("https://64.media.tumblr.com/abb78eeb0b984750542807f062bf5a25/tumblr_inline_ml2h7p5naW1rfdbtm.gif");
+    background-image: url(./Assets/backgrounditem.png);
+    background-size: 10px 10px;
+    border-image-outset: 15px 15px;
 }
 
 body{
-    background-color: $darkPurple;
+    background-image: url(./Assets/background.png);
+    background-repeat: repeat;
     color:$lightPink;
     padding: 20px;
 }

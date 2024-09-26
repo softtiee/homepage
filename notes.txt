@@ -4,6 +4,11 @@ Resources:
 - https://www.w3schools.com/html
 - https://www.freecodecamp.org (YOU GET CERTIFICATIONS HERE???)
 
+ASSET CREDITS!!!
+Lace Borders: https://solaria.neocities.org/bits/
+
+
+
 !!!! PALETTE !!!! (WIP)
 321D34 - Dark Purple   [BACKGROUNDS]
 4C4551 - Dark Grey     [BOXES STUFF]
@@ -24,6 +29,7 @@ Features to add:
 - Current status (Can you link these between pages? Like have it reference the same file/code or smth??)
   - ADD A COMMISSION STATUS TO IT!!!
 - Updates!!
+- https://www.htmlcommentbox.com COMMENT BOX!!!
 
 Pages Todo list:
 - RAMBLE BLOG!!!
