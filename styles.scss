@@ -6,6 +6,9 @@ $pink: #B3788C;
 $lightPink: #E4B4C1;
 $lightGray: #DCCED6;
 
+//head{}
+
 body{
-    color: $darkPurple;
+    background-color: $darkPurple;
+    p{color:$lightPink;}
 }
