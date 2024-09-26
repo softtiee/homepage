@@ -1,14 +1,29 @@
 // COLORS PALETTE - GOTHIC LOLITA VIBES
 
-$darkPurple: #321D34;
-$darkGray: #4C4551;
+$darkPurple: #291e29;
+$darkGray: #1b171c;
 $pink: #B3788C;
 $lightPink: #E4B4C1;
 $lightGray: #DCCED6;
 
 //head{}
 
+.intro {
+    color: $lightPink
+}
+
+.menu{
+    background-color: $pink;
+    color: $darkGray;
+}
+
+.main{
+    background-color: $darkGray;
+    padding: 15px;
+}
+
 body{
     background-color: $darkPurple;
-    p{color:$lightPink;}
+    color:$lightPink;
+    padding: 20px;
 }

@@ -1,6 +1,19 @@
-body {
-  background-color: #321D34;
-}
-body p {
+.intro {
   color: #E4B4C1;
+}
+
+.menu {
+  background-color: #B3788C;
+  color: #1b171c;
+}
+
+.main {
+  background-color: #1b171c;
+  padding: 15px;
+}
+
+body {
+  background-color: #291e29;
+  color: #E4B4C1;
+  padding: 20px;
 }/*# sourceMappingURL=styles.css.map */
