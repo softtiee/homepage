@@ -2,41 +2,20 @@
   font-family: goth;
   src: url(./Assets/CloisterBlackLight-axjg.ttf);
 }
-.intro {
-  color: #E4B4C1;
-  text-align: center;
+@font-face {
+  font-family: agedgoth;
+  src: url(./Assets/DoDavidGothicAged-w1gD6.ttf);
+}
+@font-face {
+  font-family: cute;
+  src: url(./Assets/BabyGround-MVV5B.ttf);
+}
+html {
+  cursor: url(./Assets/kuromiopen.cur), auto;
 }
 
-.menu {
-  color: #1b171c;
-  text-align: center;
-}
-
-.button1 {
-  background: #B3788C;
-  border-radius: 11px;
-  border-color: #E4B4C1;
-  width: 10%;
-  height: 37px;
-  color: #1b171c;
-  display: inline-block;
-  font: normal bold 23px/29px "goth", cursive;
-  text-align: center;
-  cursor: url(./Assets/kuromirose.cur), auto;
-}
-
-.spacer {
-  height: 35px;
-  padding: 5px;
-}
-
-.main {
-  border: 17px solid transparent;
-  border-image: url(./Assets/blacklace4.png) 30 round;
-  border-image-slice: fill;
-  background-image: url(./Assets/backgrounditem.png);
-  background-size: 10px 10px;
-  border-image-outset: 15px 15px;
+html:active {
+  cursor: url(./Assets/kuromidizzy.cur), auto;
 }
 
 body {
@@ -46,10 +25,59 @@ body {
   padding: 20px;
 }
 
-html {
-  cursor: url(./Assets/kuromiopen.cur), auto;
+h1.head {
+  color: #E4B4C1;
+  text-align: center;
+  font-family: "agedgoth";
+  letter-spacing: 3px;
+  font-size: 50px;
 }
 
-html:active {
-  cursor: url(./Assets/kuromidizzy.cur), auto;
+p.center {
+  text-align: center;
+}
+
+a.button1 {
+  background: #B3788C;
+  border-radius: 11px;
+  border-color: #E4B4C1;
+  width: 10%;
+  height: 40px;
+  color: #1b171c;
+  display: inline-block;
+  font: normal bold 23px/29px "goth", cursive;
+  text-align: center;
+  cursor: url(./Assets/kuromirose.cur), auto;
+}
+
+.spacer {
+  height: 35px;
+  width: 10%;
+  padding: 5px;
+}
+
+.threes {
+  display: flex;
+}
+
+.box {
+  border: 17px solid transparent;
+  border-image: url(./Assets/blacklace4.png) 30 round;
+  border-image-slice: fill;
+  background-color: #1b171c;
+  background-size: 10px 10px;
+  border-image-outset: 15px 15px;
+  font-family: "cute";
+  font-size: 30px;
+  flex: 2 1 0;
+}
+
+.intro {
+  color: #E4B4C1;
+  text-align: center;
+}
+
+.menu {
+  color: #1b171c;
+  text-align: center;
 }/*# sourceMappingURL=styles.css.map */

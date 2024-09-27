@@ -8,8 +8,6 @@ ASSET CREDITS!!!
 Lace Borders: https://solaria.neocities.org/bits/
 Gothic Black Font: https://www.fontspace.com/cloister-black-font-f1997
 
-
-
 !!!! PALETTE !!!! (WIP)
 321D34 - Dark Purple   [BACKGROUNDS]
 4C4551 - Dark Grey     [BOXES STUFF]
@@ -17,13 +15,7 @@ B3788C - Pink          [ Text ???? ]
 E4B4C1 - Light Pink    [  Accents  ]
 DCCED6 - Pink - Grey   [ Small Txt ]
 
-Hosting servers:
-- github pages
-- https://surge.sh
-- https://neocities.org (FOR THAT NOSTOLGIC VIBEE!!!)
-
-(Omg neocities has a whole community?? IT SUPPORTS CSS AND JAVASCRIPT TOO which makes sense lol)
-
+Hosting servers: Github
 
 Features to add:
 - https://gifypet.neocities.org/#getapet GIFY PET
@@ -31,11 +23,21 @@ Features to add:
   - ADD A COMMISSION STATUS TO IT!!!
 - Updates!!
 - https://www.htmlcommentbox.com COMMENT BOX!!!
+- 404 page https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site
 
-Pages Todo list:
-- RAMBLE BLOG!!!
-    + Maybe add a "fav characters/shows" thing beside it too?
-- Actual portfolio lol
-- Fanart gallary ( Bc copyright D: )
-- TOS and yays and nays of commissions
-- About me
+Pages to do:
+(Menu drop down)
+- portfolio
+  >Commissions
+  >Original Art
+  >Fanart
+  >Sketches
+  >Password-protected
+
+- Personal
+  >About me
+  >Rambles
+  >Media
+    > to-watch list
+    > fics lol
+  >Contact me
